@@ -7,4 +7,4 @@ Let's tackle those bugs together and create something amazing! Don't stress too 
 Don't forget to have fun while coding..
 Happy coding!!
 
-- The KopasConnect Team
+- The Kopas Connect Team
